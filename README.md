@@ -9,7 +9,7 @@ Using Bootstrap, recreate your portfolio site with the following items:<br>
 A navbar<br>
 A responsive layout<br>
 Responsive images<br>
-![ScreenShot](assets/images/screenshot.jpg)<br>
+![ScreenShot](assets/images/homepage_screenshot.jpg)<br>
 
 ## Installation
 
